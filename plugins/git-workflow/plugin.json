@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "git-workflow",
+  "version": "0.3.0",
+  "description": "管理 Git 开发工作流：按任务自动创建或复用分支，并生成规范的中文提交信息。"
+}
